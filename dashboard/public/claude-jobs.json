@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-09-06T07:46:28.250999+00:00",
-  "totalJobs": 102,
+  "lastUpdated": "2026-09-07T08:06:39.917962+00:00",
+  "totalJobs": 100,
   "sources": [
     "Anthropic",
     "HackerNews",
@@ -202,29 +202,6 @@
       "postedAt": "2026-09-01T21:38:54+00:00",
       "tags": [
         "AWS"
-      ],
-      "companyIcon": ""
-    },
-    {
-      "id": "hn-49528044",
-      "company": "Biobase",
-      "position": "Senior Technical Product Engineer",
-      "location": "REMOTE (US, Canada)",
-      "remote": true,
-      "salary": "",
-      "description": "Biobase has grand ambitions. We broker biospecimens, whole slide images, and the clinical metadata attached to them, on a supply-chain backbone that we're steadily automating. We’re building healthcare-data-focused agents on top of the datasets that we’re assembling, too. We'd rather build the...",
-      "applyUrl": "https://news.ycombinator.com/item?id=49528044",
-      "source": "HackerNews",
-      "sourceUrl": "https://news.ycombinator.com/item?id=49528044",
-      "postedAt": "2026-09-01T20:52:34+00:00",
-      "tags": [
-        "React",
-        "TypeScript",
-        "Python",
-        "PostgreSQL",
-        "Azure",
-        "Claude Code",
-        "Rails"
       ],
       "companyIcon": ""
     },
@@ -713,27 +690,6 @@
         "Cursor"
       ],
       "companyIcon": ""
-    },
-    {
-      "id": "anth-5342935008",
-      "company": "Anthropic",
-      "position": "Staff+ Software Engineer, Safeguards Human Review Tooling",
-      "location": "San Francisco, CA",
-      "remote": false,
-      "salary": "",
-      "description": "The Safeguards team is responsible for ensuring our models and products are developed and deployed safely. We're looking for engineers for our Review Tooling team, which builds the systems that humans — and increasingly Claude — use to investigate potential harms and take enforcement actions across...",
-      "applyUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5342935008",
-      "source": "Anthropic",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5342935008",
-      "postedAt": "2026-07-13T12:57:38-04:00",
-      "tags": [
-        "Rust",
-        "AWS",
-        "Claude Code",
-        "Rails",
-        "Anthropic"
-      ],
-      "companyIcon": "https://www.anthropic.com/favicon.ico"
     },
     {
       "id": "anth-5311465008",

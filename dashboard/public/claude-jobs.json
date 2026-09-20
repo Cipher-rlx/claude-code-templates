@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-09-19T07:56:17.524553+00:00",
-  "totalJobs": 93,
+  "lastUpdated": "2026-09-20T08:26:30.848328+00:00",
+  "totalJobs": 92,
   "sources": [
     "Anthropic",
     "HackerNews",
@@ -89,26 +89,6 @@
         "GraphQL"
       ],
       "companyIcon": ""
-    },
-    {
-      "id": "anth-5425724008",
-      "company": "Anthropic",
-      "position": "Associate Solutions Architect",
-      "location": "London, UK",
-      "remote": false,
-      "salary": "",
-      "description": "We're looking for an Associate Solutions Architect to join our Applied AI team and help drive the adoption of Claude Code across our enterprise customers. As an Associate SA specializing in Claude Code, you'll be the technical bridge between our cutting-edge AI coding assistant and the engineering...",
-      "applyUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5425724008",
-      "source": "Anthropic",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5425724008",
-      "postedAt": "2026-09-16T12:20:01-04:00",
-      "tags": [
-        "Rust",
-        "AWS",
-        "Claude Code",
-        "Anthropic"
-      ],
-      "companyIcon": "https://www.anthropic.com/favicon.ico"
     },
     {
       "id": "anth-5421566008",
